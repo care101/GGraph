@@ -15,12 +15,12 @@ PageRank
 
 SSSP
 ``` shell
-./toolkits/SSSP <data dir> <vertices num> 
+./toolkits/SSSP <data dir> <vertices num> <root vertex>
 ```
 
 BFS
 ``` shell
-./toolkits/BFS <data dir> <vertices num> 
+./toolkits/BFS <data dir> <vertices num> <root vertex>
 ```
 
 CC
